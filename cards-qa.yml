@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.2"
+
+accounts:
+  message: "Welcome to Eazybank account related QA APIs"
+  contactDetails:
+    name: "Shahid k-QA Lead"
+    email: "Shahid@eazybank.com"
+  onCallSupport:
+    -(666)265-3765
+    -(666)734-8371

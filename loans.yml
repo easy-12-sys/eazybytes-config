@@ -1,0 +1,12 @@
+
+build:
+  version: "1.3"
+
+accounts:
+  message: "Welcome to Eazybank account related local APIs"
+  contactDetails:
+    name: "Nick j-Developer"
+    email: "Nick@eazybank.com"
+  onCallSupport:
+    - "(555)555-1234"
+    - "(555)523-1345"

@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "1.1"
+
+accounts:
+  message: "Welcome to Eazybank account related Prod APIs"
+  contactDetails:
+    name: "Alia b-Product owner"
+    email: "Alia@eazybank.com"
+  onCallSupport:
+    -(453)789-3332
+    -(234)731-8333
