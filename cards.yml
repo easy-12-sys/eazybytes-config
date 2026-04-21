@@ -3,7 +3,7 @@ build:
   version: "3.3"
 
 accounts:
-  message: "Welcome to Eazybank account related local APIs"
+  message: "Welcome to Eazybank cards related local APIs"
   contactDetails:
     name: "deepika p-Developer"
     email: "deepika@eazybank.com"
