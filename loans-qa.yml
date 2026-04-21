@@ -4,7 +4,7 @@ build:
   version: "2.2"
 
 accounts:
-  message: "Welcome to Eazybank account related QA APIs"
+  message: "Welcome to Eazybank loans related QA APIs"
   contactDetails:
     name: "Kiara a-QA Lead"
     email: "kiara@eazybank.com"
