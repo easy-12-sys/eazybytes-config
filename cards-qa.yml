@@ -4,7 +4,7 @@ build:
   version: "2.2"
 
 accounts:
-  message: "Welcome to Eazybank account related QA APIs"
+  message: "Welcome to Eazybank cards related QA APIs"
   contactDetails:
     name: "Shahid k-QA Lead"
     email: "Shahid@eazybank.com"
