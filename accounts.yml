@@ -5,7 +5,7 @@ build:
   version: "3.3"
 
 accounts:
-  message: "Welcome to Eazybank account related local APIs"
+  message: "Welcome to Eazybank account related docker APIs"
   contactDetails:
     name: "John Doe-Developer"
     email: "john@eazybank.com"
